@@ -1,6 +1,11 @@
 # PDF-books
 This is an official distribution of the TrainABA Supervision Curriculum Series, as free PDFs.   
 
+Vol. 1: Reference Manual https://github.com/TrainABA/books/raw/master/TrainABA%20Supervision%20Curriculum%20-%20BCBA%20Reference%20Manual%203.0.0.pdf
+Vol. 2: BCBA Fieldwork https://github.com/TrainABA/books/raw/master/TrainABA%20Supervision%20Curriculum%20-%20BCBA%20Independent%20Fieldwork%203.0.0.pdf
+Vol. 3: RBT https://github.com/TrainABA/books/raw/master/TrainABA%20Supervision%20Curriculum%20-%20RBT%20Credential%20Workbook%203.0.0.pdf
+
+
 The publisher, BXT Dynamics, Inc., hereby grants you permission to distribute and share these books under Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). https://creativecommons.org/licenses/by-nc-nd/4.0/   
 
 If you like it, please share a copy with a friend!   
