@@ -1,24 +1,26 @@
 # PDF-books
-This is an official distribution of the TrainABA Supervision Curriculum Series, as free PDFs.
+This is an official distribution of the TrainABA Supervision Curriculum Series, as free PDFs.   
 
-The publisher, BXT Dynamics, Inc., hereby grants you permission to distribute and share these books under Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). https://creativecommons.org/licenses/by-nc-nd/4.0/
+The publisher, BXT Dynamics, Inc., hereby grants you permission to distribute and share these books under Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). https://creativecommons.org/licenses/by-nc-nd/4.0/   
 
-If you like it, please share a copy with a friend!
+If you like it, please share a copy with a friend!   
 
 Paperbacks are available on Amazon.
-More materials available at http://trainaba.com
-Free SAFMED flashcard app available at http://trainaba.com/safmed
-TRACK is a free and evolving tracking system for supervision and field assessment. Visit http://trainaba.com/track for more info.
 
-Software
-Github is where TrainABA hosts its free and open source software projects. You can use, modify, distribute, and share the software as you see fit, provided you pass the same freedoms to others. Feel free to contribute to any TrainABA project hosted on Github.
+## Software
+Flashcards: Free and open source SAFMED flashcard app available at http://trainaba.com/safmed   
+Courseware: Free and open source courseware platforms for pre-credentialed behavior technicians, supervised fieldwork, and professional development    
+Tracking software: Free customizable TrainABA templates on the SafetyCulture app, for supervision and field assessment. Visit http://trainaba.com/track for more info.     
+
+### Software
+Github is where TrainABA hosts its free and open source software projects. You can use, modify, distribute, and share the software as you see fit, provided you pass the same freedoms to others. Feel free to contribute to any TrainABA project hosted on Github.   
 
 
-Expectations
+### Legal
 TrainABA framework comes with absolutely no warranty and no promises or guarantees. TrainABA has no affiliation or endorsement of any kind from the Behavior Analyst Certification Board. For more information about the BACB, visit www.bacb.com.
 
 
-Terms
+### Terms
 These books are released under Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 This is a human-readable summary of (and not a substitute for) the license. Disclaimer.
 You are free to:
