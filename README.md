@@ -9,8 +9,8 @@ Paperbacks are available on Amazon.
 
 ## Software
 Flashcards: Free and open source SAFMED flashcard app available at http://trainaba.com/safmed   
-Courseware: Free and open source courseware platforms for pre-credentialed behavior technicians, supervised fieldwork, and professional development    
-Tracking software: Free customizable TrainABA templates on the SafetyCulture app, for supervision and field assessment. Visit http://trainaba.com/track for more info.     
+Courseware: Free and open source courseware platforms for pre-credentialed behavior technicians, supervised fieldwork, and professional development at http://trainaba.com   
+Tracking software: Free customizable TrainABA templates on the SafetyCulture app, for supervision and field assessment  http://trainaba.com/track         
 
 ### Software
 Github is where TrainABA hosts its free and open source software projects. You can use, modify, distribute, and share the software as you see fit, provided you pass the same freedoms to others. Feel free to contribute to any TrainABA project hosted on Github.   
