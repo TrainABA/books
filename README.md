@@ -1,5 +1,6 @@
 # PDF-books
 This is an official distribution of the TrainABA Supervision Curriculum Series, as free PDFs.   
+These PDFs were released publicly in q1 2017. The files have continuously been available publicly since q1 2017. The links in this ReadMe file have been updated to simplify the download process.
 
 Vol. 1: Reference Manual https://github.com/TrainABA/books/raw/master/TrainABA%20Supervision%20Curriculum%20-%20BCBA%20Reference%20Manual%203.0.0.pdf
 Vol. 2: BCBA Fieldwork https://github.com/TrainABA/books/raw/master/TrainABA%20Supervision%20Curriculum%20-%20BCBA%20Independent%20Fieldwork%203.0.0.pdf
